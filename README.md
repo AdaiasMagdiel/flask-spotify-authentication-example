@@ -60,7 +60,7 @@ Now, just start your application.
 python main.py
 ```
 
-Your Flask application should now be running locally, and you can access it at [http://localhost:5000](http://localhost:5000).
+Your Flask application should now be running locally, and you can access it at `http://localhost:5000`.
 
 ## Project Structure
 
